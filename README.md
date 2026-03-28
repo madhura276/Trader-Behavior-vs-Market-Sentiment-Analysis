@@ -10,9 +10,11 @@ The goal is to understand how market emotions influence profitability, trading a
 ## 📂 Datasets Used
 
 ### 1. Bitcoin Market Sentiment Dataset
+downdload dataset here( https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view)
 - Columns: Date, Classification (Fear, Greed, Extreme Fear, Extreme Greed, Neutral)
 
 ### 2. Historical Trader Data (Hyperliquid)
+downdload dataset here( https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view)
 - Columns include: Account, Coin, Execution Price, Size, Side, Timestamp, Closed PnL, etc.
 
 ---
